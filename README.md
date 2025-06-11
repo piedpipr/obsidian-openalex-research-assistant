@@ -10,15 +10,17 @@ The OpenAlex Research Assistant automatically enriches your academic papers with
 - **Metadata Enhancement**: Automatically add journal info, publication years, and research concepts
 - **Visual Network**: Create a beautiful graph view of your research connections
 
-
+### Hub Based Connected Papers Example - (Using Primary Citations and References)
+![alt text](image.png)
 ## 🚀 Quick Start Guide
 
 ### Step 1: Install the Plugin
 
 1. Open Obsidian Settings (Ctrl/Cmd + ,)
-2. Go to **Community Plugins** → **Browse**
+2. ~~Go to **Community Plugins** → **Browse**~~ For now use the release or this repo<br>
+ and put it into ``YOUR_VAULT/.obsidian/plugin/`` folder at first
 3. Search for "OpenAlex Research Assistant"
-4. Click **Install** and **Enable**
+4. Click ~~**Install** and~~ **Enable**
 
 
 ### Step 2: Configure Your Folders
@@ -60,6 +62,8 @@ After processing, you'll see:
 - **Research hub files** in your Research-Hubs folder
 - **Citation connections** linking related papers
 
+![alt text](image-1.png)
+
 ## 🎯 Key Features Explained
 
 ### Research Hubs
@@ -87,7 +91,10 @@ Use Obsidian's Graph View to see your research network:
 - **Blue nodes**: Your papers
 - **Orange nodes**: Research hubs
 - **Red nodes**: Referenced papers not in your vault (phantom links)
-
+### Hub Example -
+![alt text](image-2.png)
+![alt text](image-5.png)
+![alt text](image-4.png)
 ## 🔧 Settings Guide
 
 ### Basic Settings
