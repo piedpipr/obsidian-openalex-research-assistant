@@ -1,0 +1,11 @@
+{
+    "id": "openalex-research-assistant",
+    "name": "OpenAlex Research Assistant",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Leveraging OpenAlex and Zotero for an Enhanced Hub-Based Citation and Connected Papers Graph in Obsidian",
+    "author": "piedpipr",
+    "authorUrl": "https://github.com/piedpipr",
+    "fundingUrl": "",
+    "isDesktopOnly": false
+}
